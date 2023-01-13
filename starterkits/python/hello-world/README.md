@@ -2,7 +2,7 @@
 [![https://www.slim.ai/](https://img.shields.io/badge/Slim.AI-Starter%20Kit-9cf)](https://www.slim.ai/)
 [![https://hub.docker.com/](https://img.shields.io/badge/DockerHub-Image-blue)](https://hub.docker.com/)
 
-Hello Python develeopers! 
+Hello Python developers! 
 
 Optimize and harden your containerized applications the easy way — with Slim.AI. 
 
